@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\EVGENE\source\repos\class LinkedList\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class LinkedList.vcxproj -> C:\Users\EVGENE\source\repos\class LinkedList\Debug\class LinkedList.exe
